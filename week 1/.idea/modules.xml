@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Challenge_1_Hello_data_types_pt1/Challenge_1_Hello_data_types_pt1.iml" filepath="$PROJECT_DIR$/Challenge_1_Hello_data_types_pt1/Challenge_1_Hello_data_types_pt1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenge_2_Hello_data_types_pt2/Challenge_2_Hello_data_types_pt2.iml" filepath="$PROJECT_DIR$/Challenge_2_Hello_data_types_pt2/Challenge_2_Hello_data_types_pt2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenge_3_array/Challenge_3_array.iml" filepath="$PROJECT_DIR$/Challenge_3_array/Challenge_3_array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Challenge_4_hello_exceptions/Challenge_4_hello_exceptions.iml" filepath="$PROJECT_DIR$/Challenge_4_hello_exceptions/Challenge_4_hello_exceptions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Hello_data_types_pt1/Hello_data_types_pt1.iml" filepath="$PROJECT_DIR$/Hello_data_types_pt1/Hello_data_types_pt1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Hello_data_types_pt2/Hello_data_types_pt2.iml" filepath="$PROJECT_DIR$/Hello_data_types_pt2/Hello_data_types_pt2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/week 1.iml" filepath="$PROJECT_DIR$/.idea/week 1.iml" />
     </modules>
   </component>

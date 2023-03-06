@@ -4,21 +4,21 @@ import java.util.*;
 public class Main {
 
     public static void main(String[] args) {
-        int[] c = { 10, 20, 30, 40 };
-        boolean[] array = new boolean[3];
-        byte[] myByte =  new byte [8];
-        short [] myShort=  new short [2];
-        long [] myLong = new long[5];
-        float [] myFloatNum = new float [2];
+        Integer myInt = 10;
+        Boolean myBoolean = true;
+        Byte  myByte =  5;
+        Short  myShort=  6;
+        Long  myLong = 100000L;
+        Float myFloatNum = 3.5f;
 
 
 
-        System.out.println(Arrays.toString(c));
-        System.out.println(Arrays.toString(array));
-        System.out.println(Arrays.toString(myByte));
-        System.out.println(Arrays.toString(myShort));
-        System.out.println(Arrays.toString(myLong));
-        System.out.println(Arrays.toString(myFloatNum));
+        System.out.println(myInt);
+        System.out.println(myBoolean);
+        System.out.println(myByte);
+        System.out.println(myShort);
+        System.out.println(myLong);
+        System.out.println(myFloatNum);
 
 
     }
