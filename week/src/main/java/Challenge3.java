@@ -1,7 +1,8 @@
-import java.util.Arrays;
+package main.java;
+
 import java.util.Random;
 
-public class Main {
+public class Challenge3 {
     public static void main(String[] args) {
         int i;
         int[] intArray = new int[10];
@@ -11,12 +12,8 @@ public class Main {
             if (intArray[i] < 10) {
                 System.out.println(intArray[i]);
             }
-
         }
-
-
     }
-
 
     private static int randomFill() {
 

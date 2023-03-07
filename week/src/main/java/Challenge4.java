@@ -1,6 +1,8 @@
+package main.java;
+
 import java.util.Random;
 
-public class DivideArray {
+public class Challenge4 {
 
     public static void main(String[] args) { // Main method
         int maxSize = 10; // Maximum size of array
@@ -11,7 +13,6 @@ public class DivideArray {
         for (int i = 0; i < randomArray.length; i++) { //   Loop over array
             randomArray[i] = random.nextInt(10); // Random integer between 0 and 10
         }
-
 
 
         // Loop over array and divide each integer by the previous integer
@@ -29,3 +30,4 @@ public class DivideArray {
         }
     }
 }
+

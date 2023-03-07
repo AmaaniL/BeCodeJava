@@ -1,7 +1,8 @@
-import java.lang.*;
-import java.util.*;
+package main.java;
 
-public class Main {
+import java.lang.*;
+
+public class Challenge1 {
 
     public static void main(String[] args) {
         Integer myInt = 10;

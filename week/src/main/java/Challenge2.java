@@ -1,7 +1,8 @@
-public class Main {
-    public static void main(String[] args) {
-        String name = "John";
+package main.java;
 
+
+public class Challenge2 {
+    public static void main(String[] args) {
         byte myByte = 2;
         short myShort= 11111;
         long myLong = -1L;
