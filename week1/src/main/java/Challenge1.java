@@ -5,6 +5,7 @@ import java.lang.*;
 public class Challenge1 {
 
     public static void main(String[] args) {
+        String string = "Hello World";
         Integer myInt = 10;
         Boolean myBoolean = true;
         Byte  myByte =  5;
@@ -13,7 +14,7 @@ public class Challenge1 {
         Float myFloatNum = 3.5f;
 
 
-
+        System.out.println(string);
         System.out.println(myInt);
         System.out.println(myBoolean);
         System.out.println(myByte);

@@ -2,7 +2,7 @@ package main.java;
 
 public class challenge7 {
 
-    private String name:
+    private String name;
     private int age;
 
     public static void main(String[] args) {
