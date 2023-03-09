@@ -16,12 +16,13 @@ public class Challenge7 {
         try {
             BufferedReader br = new BufferedReader(new FileReader(path)); //create bufferedreader, add reader, give reader path
             Challenge7 c = new Challenge7();
-            c.getDate();
+
             while ((line = br.readLine()) != null) { //loop until there are no new lines
                 String[] values = line.split(","); //split up the values
-                String date = values[0];
-                String crimeStatistics = values[5];
-                System.out.println("Date " + date + " Crime description " + crimeStatistics);
+                c.setDate(values[0]);
+                c.setCrime(values[5]);
+
+                System.out.println("Date " + c.getDate() + " Crime description " + c.getCrime());
             }
         } catch (FileNotFoundException e) { //error if file is not found
             e.printStackTrace();
