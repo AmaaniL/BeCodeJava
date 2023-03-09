@@ -1,16 +1,14 @@
 package main.java;
 
-import java.lang.*;
-
 public class Challenge1 {
 
     public static void main(String[] args) {
         String string = "Hello World";
         Integer myInt = 10;
         Boolean myBoolean = true;
-        Byte  myByte =  5;
-        Short  myShort=  6;
-        Long  myLong = 100000L;
+        Byte myByte = 5;
+        Short myShort = 6;
+        Long myLong = 100000L;
         Float myFloatNum = 3.5f;
 
 
