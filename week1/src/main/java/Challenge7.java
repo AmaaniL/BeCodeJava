@@ -11,7 +11,7 @@ public class Challenge7 {
 
     public static void main(String[] args) {
         String path = "C:/Users/Marieke/Desktop/SacramentocrimeJanuary2006.csv"; //make path
-        String line = ""; //make line
+        String line; //make line
 
         try {
             BufferedReader br = new BufferedReader(new FileReader(path)); //create bufferedreader, add reader, give reader path
