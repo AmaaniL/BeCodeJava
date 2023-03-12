@@ -8,7 +8,7 @@ public class Challenge8main {
         Challenge8Reader c = new Challenge8Reader();
 
 
-// TODO: Read the CSV file and store the data in a list of “HospitalRecord” objects
+// Read the CSV file and store the data in a list of “HospitalRecord” objects
         try {
             BufferedReader br = new BufferedReader(new FileReader(c.getPath())); //create bufferedreader, add reader, give reader path
 
@@ -24,7 +24,7 @@ public class Challenge8main {
             String line;
             while ((line = br.readLine()) != null) { //loop until there are no new lines
                 HospitalRecords = line.split(",");
-// TODO: Calculate the total number of visitors per department per month and store the data in a Map
+//Calculate the total number of visitors per department per month and store the data in a Map
                 if (Objects.equals(HospitalRecords[1], "Cardiology")) {
                     cardioVisit = Integer.parseInt(HospitalRecords[2]);
                     cardioVisitSum = cardioVisitSum + cardioVisit;
@@ -53,7 +53,7 @@ public class Challenge8main {
             e.printStackTrace();
         }
 
-// TODO: Define a class that models the txt file
+//Define a class that models the txt file
         try {
             FileWriter fw = new FileWriter("C:\\Users\\Marieke\\becode\\oefeningen\\03.Mountain\\week1\\src\\hospital.txt");
             fw.write(String.valueOf(c.getVisitCount()));
