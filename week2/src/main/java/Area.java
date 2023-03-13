@@ -6,8 +6,8 @@ public class Area {
     // calculate the area of the square
     // It takes one double parameter
     double Area(double length, double width)
-    {double area = length * width;
-        return area;
+    {
+        return length * width;
 
     }
 
