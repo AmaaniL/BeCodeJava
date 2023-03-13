@@ -18,14 +18,14 @@ public class Challenge1_Measurements {
 
                 System.out.println("Input length in mm:");
 
-                double length = Double.parseDouble(myObj.nextLine());  // Read user input
+                double length = myObj.nextDouble();  // Read user input
                 System.out.println("Input width in mm:");
 
-                double width = Double.parseDouble(myObj.nextLine());
+                double width = myObj.nextDouble();
                 double area = test.Area(length, width);
                 area = area * Measurements.MILLIMETER.length;
 
-                System.out.println(area + "m");
+                System.out.println(area + "m²");
 
                 break;
 
@@ -33,13 +33,13 @@ public class Challenge1_Measurements {
                 System.out.println("You chose centimeter");
                 System.out.println("Input length in cm:");
 
-                length = Double.parseDouble(myObj.nextLine());  // Read user input
+                length = myObj.nextDouble();  // Read user input
                 System.out.println("Input width in cm:");
 
-                width = Double.parseDouble(myObj.nextLine());
+                width = myObj.nextDouble();
                 area = test.Area(length, width);
                 area = area * Measurements.CENTIMETER.length;
-                System.out.println(area + "m");
+                System.out.println(area + "m²");
 
                 break;
 
@@ -47,12 +47,12 @@ public class Challenge1_Measurements {
                 System.out.println("You chose meter");
                 System.out.println("Input length in m:");
 
-                length = Double.parseDouble(myObj.nextLine());  // Read user input
+                length = myObj.nextDouble();  // Read user input
                 System.out.println("Input width in m:");
 
-                width = Double.parseDouble(myObj.nextLine());
+                width = myObj.nextDouble();
                 area = test.Area(length, width);
-                System.out.println(area + "m");
+                System.out.println(area + "m²");
 
                 break;
             default:
