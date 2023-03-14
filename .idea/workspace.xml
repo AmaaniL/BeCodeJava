@@ -1,42 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="123de119-a744-4680-83bf-b361a4f7f063" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/03.Mountain.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/week1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2/src/main/java/Challenge1_Measurements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2/src/main/java/Challenge1_MeasurementsEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2/src/main/java/Challenge2CSVReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week2/week2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="123de119-a744-4680-83bf-b361a4f7f063" name="Changes" comment="Use bufferedreader to read CSV">
+      <change afterPath="$PROJECT_DIR$/week2/src/main/java/effects-of-covid-19-on-trade-at-21-July-2021-provisional.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03.The-Mountain/hospital.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03.The-Mountain/hospital.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03.The-Mountain/main/java/Area.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03.The-Mountain/main/java/Challenge1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03.The-Mountain/main/java/Challenge10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03.The-Mountain/main/java/Challenge1_Measurements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03.The-Mountain/main/java/Challenge2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03.The-Mountain/main/java/Challenge3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03.The-Mountain/main/java/Challenge4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03.The-Mountain/main/java/Challenge5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03.The-Mountain/main/java/Challenge6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03.The-Mountain/main/java/Challenge7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03.The-Mountain/main/java/Challenge8Reader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03.The-Mountain/main/java/Challenge8main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03.The-Mountain/main/java/Challenge9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03.The-Mountain/main/java/FileUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03.The-Mountain/main/java/Measurements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03.The-Mountain/main/java/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03.The-Mountain/main/java/excercise2/effects-of-covid-19-on-trade-at-21-July-2021-provisional.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/03.The-Mountain/main/java/excercise2/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/src/main/java/excercise2/List.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/src/main/java/excercise2/effects-of-covid-19-on-trade-at-21-July-2021-provisional.csv" beforeDir="false" afterPath="$PROJECT_DIR$/week2/src/main/java/effects-of-covid-19-on-trade-at-21-July-2021-provisional.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/src/main/java/excercise2/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/src/main/java/exercise1/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/src/main/java/Challenge1_Area.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/src/main/java/exercise1/Challenge1_Measurements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/src/main/java/exercise1/Measurements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week2/main/java/Challenge2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/src/main/java/Challenge2_CSVReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/src/main/java/Challenge2_CSVReader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,12 +42,13 @@
     "last_opened_file_path": "C:/Users/Marieke/becode/oefeningen/03.Mountain",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="Challenge2CSVReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.Challenge2CSVReader" />
+    <configuration name="Challenge2_CSVReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.Challenge2_CSVReader" />
       <module name="week2" />
       <extension name="coverage">
         <pattern>
@@ -92,7 +65,7 @@
       <module name="week2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.Challenge2CSVReader" />
+          <option name="PATTERN" value="main.java.Challenge2_CSVReader" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,7 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Challenge2CSVReader" />
+        <item itemvalue="Application.Challenge2_CSVReader" />
         <item itemvalue="Application.Challenge2_CSVReader" />
       </list>
     </recent_temporary>
@@ -116,6 +89,18 @@
       <option name="presentableId" value="Default" />
       <updated>1678784958295</updated>
     </task>
+    <task id="LOCAL-00001" summary="Use bufferedreader to read CSV">
+      <created>1678785786665</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678785786665</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Use bufferedreader to read CSV" />
+    <option name="LAST_COMMIT_MESSAGE" value="Use bufferedreader to read CSV" />
   </component>
 </project>
