@@ -1,6 +1,6 @@
 package main.java;
 
-public enum Measurements {
+public enum Challenge1_MeasurementsEnum {
     MILLIMETER(0.000001),
     CENTIMETER(0.0001),
 
@@ -8,7 +8,7 @@ public enum Measurements {
 
 final double length;
 
-Measurements (double length){
+Challenge1_MeasurementsEnum(double length){
     this.length = length;
 }
 

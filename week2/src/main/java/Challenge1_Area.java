@@ -1,6 +1,6 @@
 package main.java;
 
-public class Area {
+public class Challenge1_Area {
 
     // Overloaded Area() function to
     // calculate the area of the square

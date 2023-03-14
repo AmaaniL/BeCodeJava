@@ -10,7 +10,7 @@ public class Challenge1_Measurements {
         System.out.println("Choose unit mm, cm or m:");
 
         String input = myObj.nextLine();  // Read user input
-        Area test = new Area();
+        Challenge1_Area test = new Challenge1_Area();
 
         switch (input) {
             case "mm":
@@ -23,7 +23,7 @@ public class Challenge1_Measurements {
 
                 double width = myObj.nextDouble();
                 double area = test.Area(length, width);
-                area = area * Measurements.MILLIMETER.length;
+                area = area * Challenge1_MeasurementsEnum.MILLIMETER.length;
 
                 System.out.println(area + "m²");
 
@@ -38,7 +38,7 @@ public class Challenge1_Measurements {
 
                 width = myObj.nextDouble();
                 area = test.Area(length, width);
-                area = area * Measurements.CENTIMETER.length;
+                area = area * Challenge1_MeasurementsEnum.CENTIMETER.length;
                 System.out.println(area + "m²");
 
                 break;
