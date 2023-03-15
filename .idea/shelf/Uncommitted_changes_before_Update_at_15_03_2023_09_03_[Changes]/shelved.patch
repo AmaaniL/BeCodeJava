@@ -1,0 +1,57 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AnalysisUIOptions\">\r\n    <option name=\"ANALYZE_INJECTED_CODE\" value=\"false\" />\r\n  </component>\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e2a8d3b0-b22f-4727-9934-a4e2afdf741e\" name=\"Changes\" comment=\"Change nextline to nextDouble\">\r\n      <change afterPath=\"$PROJECT_DIR$/week2/src/main/java/excercise2/List.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/week2/src/main/java/excercise2/effects-of-covid-19-on-trade-at-21-July-2021-provisional.csv\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/week2/src/main/java/excercise2/main.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/week2/src/main/java/exercise1/Area.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/week2/src/main/java/exercise1/Challenge1_Measurements.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/week2/src/main/java/exercise1/Measurements.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/03.The-Mountain/main/java/Area.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/03.The-Mountain/main/java/Area.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/03.The-Mountain/main/java/Challenge1_Measurements.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/03.The-Mountain/main/java/Challenge1_Measurements.class\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/week2/src/main/java/Area.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/week2/src/main/java/Challenge1_Measurements.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/week2/src/main/java/Measurements.java\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Enum\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2Mx5DogI4e3fRWCWmTydtHxIURX\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ASKED_ADD_EXTERNAL_FILES\": \"true\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"project.structure.last.edited\": \"Modules\",\r\n    \"project.structure.proportion\": \"0.15\",\r\n    \"project.structure.side.proportion\": \"0.2\",\r\n    \"run.code.analysis.last.selected.profile\": \"pProject Default\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Marieke\\repos\\03.The-Mountain\" />\r\n      <recent name=\"C:\\Users\\Marieke\\repos\\03.The-Mountain\\week2\\src\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e2a8d3b0-b22f-4727-9934-a4e2afdf741e\" name=\"Changes\" comment=\"\" />\r\n      <created>1678696280742</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1678696280742</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Add week 2 exercise 1\">\r\n      <created>1678708699458</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1678708699458</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Add week 2 exercise 1\">\r\n      <created>1678708805988</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1678708805988</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Change nextline to nextDouble\">\r\n      <created>1678712594776</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1678712594776</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <MESSAGE value=\"Add week 2 exercise 1\" />\r\n    <MESSAGE value=\"Change nextline to nextDouble\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Change nextline to nextDouble\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 0ea56a217c551533bdc58b687cad5bf29b40d2db)
++++ b/.idea/workspace.xml	(date 1678723079782)
+@@ -7,20 +7,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="e2a8d3b0-b22f-4727-9934-a4e2afdf741e" name="Changes" comment="Change nextline to nextDouble">
+-      <change afterPath="$PROJECT_DIR$/week2/src/main/java/excercise2/List.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/week2/src/main/java/excercise2/effects-of-covid-19-on-trade-at-21-July-2021-provisional.csv" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/week2/src/main/java/excercise2/main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/week2/src/main/java/exercise1/Area.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/week2/src/main/java/exercise1/Challenge1_Measurements.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/week2/src/main/java/exercise1/Measurements.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/out/production/03.The-Mountain/main/java/Area.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03.The-Mountain/main/java/Area.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/out/production/03.The-Mountain/main/java/Challenge1_Measurements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03.The-Mountain/main/java/Challenge1_Measurements.class" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week2/src/main/java/Area.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week2/src/main/java/Challenge1_Measurements.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/week2/src/main/java/Measurements.java" beforeDir="false" />
+-    </list>
++    <list default="true" id="e2a8d3b0-b22f-4727-9934-a4e2afdf741e" name="Changes" comment="Start exercise 2 of week 2" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -95,13 +82,21 @@
+       <option name="project" value="LOCAL" />
+       <updated>1678712594776</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="Start exercise 2 of week 2">
++      <created>1678723066729</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1678723066729</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
+     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+     <MESSAGE value="Add week 2 exercise 1" />
+     <MESSAGE value="Change nextline to nextDouble" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Change nextline to nextDouble" />
++    <MESSAGE value="Start exercise 2 of week 2" />
++    <option name="LAST_COMMIT_MESSAGE" value="Start exercise 2 of week 2" />
+   </component>
+ </project>
+\ No newline at end of file
