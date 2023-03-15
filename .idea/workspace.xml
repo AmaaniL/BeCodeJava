@@ -7,9 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2a8d3b0-b22f-4727-9934-a4e2afdf741e" name="Changes" comment="Start exercise 2 of week 2">
+    <list default="true" id="e2a8d3b0-b22f-4727-9934-a4e2afdf741e" name="Changes" comment="Make constructor and getter">
+      <change afterPath="$PROJECT_DIR$/week2/src/main/java/CSVFileStream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/src/main/java/Challenge2_CSVReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/src/main/java/Challenge2_CSVReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/src/main/java/Challenge2_CSVReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/src/main/java/CovidData.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +51,13 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="Challenge2_CSVReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.Challenge2_CSVReader" />
+  <component name="RunManager" selected="Application.CSVFileStream">
+    <configuration name="CSVFileStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.CSVFileStream" />
       <module name="week2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.Challenge2CSVReader" />
+          <option name="PATTERN" value="main.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,10 +78,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CovidData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.CovidData" />
+      <module name="week2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.Challenge2CSVReader" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Challenge2_CSVReader" />
-        <item itemvalue="Application.Challenge2_CSVReader" />
+        <item itemvalue="Application.CSVFileStream" />
+        <item itemvalue="Application.CovidData" />
+        <item itemvalue="Application.CovidData" />
       </list>
     </recent_temporary>
   </component>
@@ -107,12 +122,20 @@
       <option name="project" value="LOCAL" />
       <updated>1678792526819</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Make constructor and getter">
+      <created>1678868824966</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678868824966</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Use bufferedreader to read CSV" />
     <MESSAGE value="Use stream to read CSV" />
-    <option name="LAST_COMMIT_MESSAGE" value="Use stream to read CSV" />
+    <MESSAGE value="Make constructor and getter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make constructor and getter" />
   </component>
 </project>
