@@ -8,7 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2a8d3b0-b22f-4727-9934-a4e2afdf741e" name="Changes" comment="Add exercise 3 filtering datastreams">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_03_2023_09_03__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_03_2023_09_03__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week2/main/java/Challenge2_CSVFileStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week2/main/java/Challenge2_CSVFileStream.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week2/src/main/java/Challenge2_CSVFileStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/src/main/java/Challenge2_CSVFileStream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +103,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="123de119-a744-4680-83bf-b361a4f7f063" name="Changes" comment="" />
+      <changelist id="e2a8d3b0-b22f-4727-9934-a4e2afdf741e" name="Changes" comment="Add exercise 3 filtering datastreams" />
       <created>1678784958295</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
