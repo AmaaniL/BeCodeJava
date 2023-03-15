@@ -7,9 +7,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2a8d3b0-b22f-4727-9934-a4e2afdf741e" name="Changes" comment="Split csv">
+    <list default="true" id="e2a8d3b0-b22f-4727-9934-a4e2afdf741e" name="Changes" comment="Fix the regex to split on &quot;,&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/src/main/java/CSVFileStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/src/main/java/CSVFileStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week2/main/java/CSVFileStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week2/main/java/CovidData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/src/main/java/CSVFileStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/src/main/java/Challenge2_CSVFileStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/src/main/java/CovidData.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/src/main/java/Challenge2_CovidData.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +53,9 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CSVFileStream">
-    <configuration name="CSVFileStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.CSVFileStream" />
+  <component name="RunManager" selected="Application.Challenge2_CSVFileStream">
+    <configuration name="Challenge2_CSVFileStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.Challenge2_CSVFileStream" />
       <module name="week2" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CovidData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.CovidData" />
+    <configuration name="Challenge2_CovidData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.Challenge2_CovidData" />
       <module name="week2" />
       <extension name="coverage">
         <pattern>
@@ -92,9 +95,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CSVFileStream" />
-        <item itemvalue="Application.CovidData" />
-        <item itemvalue="Application.CovidData" />
+        <item itemvalue="Application.Challenge2_CSVFileStream" />
+        <item itemvalue="Application.Challenge2_CovidData" />
+        <item itemvalue="Application.Challenge2_CovidData" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678874114114</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fix the regex to split on &quot;,&quot;">
+      <created>1678889361558</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678889361558</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -143,6 +153,7 @@
     <MESSAGE value="Use stream to read CSV" />
     <MESSAGE value="Make constructor and getter" />
     <MESSAGE value="Split csv" />
-    <option name="LAST_COMMIT_MESSAGE" value="Split csv" />
+    <MESSAGE value="Fix the regex to split on &quot;,&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix the regex to split on &quot;,&quot;" />
   </component>
 </project>

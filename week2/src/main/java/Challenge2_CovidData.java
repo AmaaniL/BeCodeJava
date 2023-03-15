@@ -3,7 +3,7 @@ package main.java;
 import java.io.IOException;
 
 
-public class CovidData {
+public class Challenge2_CovidData {
     private final String direction;
     private final Integer year;
     private final String date;
@@ -15,7 +15,7 @@ public class CovidData {
     private final Long value;
     private final Long cumulative;
 
-    public CovidData(String direction, Integer year, String date, String weekday, String country, String commodity, String transportMode, String measure, Long value, Long cumulative) {
+    public Challenge2_CovidData(String direction, Integer year, String date, String weekday, String country, String commodity, String transportMode, String measure, Long value, Long cumulative) {
         this.direction = direction;
         this.year = year;
         this.date = date;
