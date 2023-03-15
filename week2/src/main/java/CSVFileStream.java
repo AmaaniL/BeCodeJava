@@ -10,13 +10,18 @@ public class CSVFileStream {
 
         Files.lines(path)
                 .skip(1)
-
-                .map(line -> {
-                    String[] fields = line.split(",");
-                    return new CovidData(fields[0], Integer.parseInt(fields[1]), fields[2], fields[3], fields[4], fields[5], fields[6], fields[7], Long.parseLong(fields[8]), Long.parseLong(fields[9]));
-
-                })
+                .map(CSVFileStream::getData)
+                .distinct()
                 .forEach(System.out::println);
+
+    }
+
+    private static CovidData getData(String line) {
+
+         String[] fields = line.split(",(?=([^\"]*\"[^\"]*\")*[^\"]*$)");
+
+
+        return new CovidData(fields[0], Integer.parseInt(fields[1]), fields[2], fields[3], fields[4], fields[5], fields[6], fields[7], Long.parseLong(fields[8]), Long.parseLong(fields[9])); //lines to object
 
     }
 }

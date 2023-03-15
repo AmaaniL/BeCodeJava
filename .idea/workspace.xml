@@ -7,10 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2a8d3b0-b22f-4727-9934-a4e2afdf741e" name="Changes" comment="Make constructor and getter">
-      <change afterPath="$PROJECT_DIR$/week2/src/main/java/CSVFileStream.java" afterDir="false" />
+    <list default="true" id="e2a8d3b0-b22f-4727-9934-a4e2afdf741e" name="Changes" comment="Split csv">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/src/main/java/Challenge2_CSVReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/src/main/java/CovidData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/src/main/java/CSVFileStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/week2/src/main/java/CSVFileStream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,13 +128,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678868824966</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Split csv">
+      <created>1678874114114</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678874114114</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Use bufferedreader to read CSV" />
     <MESSAGE value="Use stream to read CSV" />
     <MESSAGE value="Make constructor and getter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Make constructor and getter" />
+    <MESSAGE value="Split csv" />
+    <option name="LAST_COMMIT_MESSAGE" value="Split csv" />
   </component>
 </project>
