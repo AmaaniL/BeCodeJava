@@ -1,2 +1,3 @@
 # BeCodeJava
-Here I will put my code for the BeCode Java track
+
+These are the Java exercises of the first two weeks of the BeCode Java track. In week one I used a buffered reader to read a CSV file. In week two I worked with datastreams. 
